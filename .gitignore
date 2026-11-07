@@ -1,0 +1,10 @@
+# Never commit patient data
+*.dcm
+*.DCM
+CONFIDENTIEL*
+*correspondance*
+*.xlsx
+metadata*.csv
+IMG_*.png
+*.pt
+__pycache__/

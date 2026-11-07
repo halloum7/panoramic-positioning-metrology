@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+opencv-python-headless
+torch
+timm
+segmentation-models-pytorch
+matplotlib
+openpyxl
+pydicom
